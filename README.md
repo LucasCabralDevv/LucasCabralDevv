@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working as an Android Developer intern 💻📱
 - 🌱 I’m currently learning software architectures - MVVM + Clean and MVI & unitary tests with JUnit/Mockk/Mockito
-- 👯 I’m looking to collaborate helping beginner programmer
-- 🤔 I’m looking for help with Android Developer career
-- 💬 Ask me about Java|Kotlin|Android framework or about anything 😄
+- 👯 I’m looking to collaborate helping beginner programmers
+- 🤔 I’m looking for help with android developer career
+- 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
 - 📫 How to reach me: [Linkedin - @lucas-cabral](https://www.linkedin.com/in/lucas-cabral-058654137/)
 - ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
