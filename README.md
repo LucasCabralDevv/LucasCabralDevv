@@ -18,6 +18,15 @@
 - 📫 How to reach me: [Linkedin - @lucas-cabral](https://www.linkedin.com/in/lucas-cabral-058654137/)
 - ⚡ Fun fact: Mobile apps are used more than websites. 😮 😄
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCabralDevv&show_icons=true&theme=tokyonight)
+**Languages and Tools:**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabralDevv&theme=tokyonight)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+📈 My GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LucasCabralDevv&show_icons=true&theme=gotham" alt="LucasCabralDevv" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
