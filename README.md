@@ -14,17 +14,17 @@
 - 🌱 I’m currently learning software architectures - MVVM + Clean and MVI & unitary tests with JUnit/Mockk/Mockito
 - 👯 I’m looking to collaborate helping beginner programmer
 - 🤔 I’m looking for help with Android Developer career
-- 💬 Ask me about Java|Kotlin|Android framework and how to get a mobile developer internship
+- 💬 Ask me about Java|Kotlin|Android framework or about anything 😄
 - 📫 How to reach me: [Linkedin - @lucas-cabral](https://www.linkedin.com/in/lucas-cabral-058654137/)
-- ⚡ Fun fact: Mobile apps are used more than websites. 😮 😄
+- ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 📈 My GitHub Stats
