@@ -11,7 +11,7 @@
 <br />
 
 - 🔭 I’m currently working as an Android Developer intern 💻📱
-- 🌱 I’m currently learning software architectures - MVVM + Clean and MVI & unitary tests with JUnit/Mockk/Mockito
+- 🌱 I’m currently learning software architectures - MVVM + Clean and MVI, unitary tests with JUnit/Mockk/Mockito & dependency injection using Koin
 - 👯 I’m looking to collaborate helping beginner programmers
 - 🤔 I’m looking for help with android developer career
 - 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
