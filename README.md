@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate helping beginner programmers
 - 🤔 I’m looking for help with android developer career
 - 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
-- 📫 How to reach me: [Linkedin - @lucas-cabral](https://www.linkedin.com/in/lucas-cabral-058654137/)
+- 📫 How to reach me: [Linkedin - @lucas-cabral-android](https://www.linkedin.com/in/lucas-cabral-android/)
 - ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
 **Languages and Tools:**  
