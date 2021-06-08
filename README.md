@@ -4,9 +4,9 @@
 </a>
 <a href="https://open.spotify.com/user/m53jlw64ysng38bldm8oxeqjm">
   <img align="left" alt="Cabral's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv)
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv)
 
 <br />
 
