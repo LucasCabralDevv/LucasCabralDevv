@@ -30,3 +30,4 @@
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LucasCabralDevv&show_icons=true&theme=gotham" alt="LucasCabralDevv" />
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![Snake animation](https://github.com/LucasCabralDevv/LucasCabralDevv/blob/output/github-contribution-grid-snake.svg)
