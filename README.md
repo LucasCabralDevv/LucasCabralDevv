@@ -9,9 +9,7 @@
   <img align="left" alt="Cabral's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv)
-
-<img align="right" alt="GIF" src="https://github.com/LucasCabralDevv/LucasCabralDevv/blob/main/1.gif?raw=true" width="250" height="250" />
+![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv) <img align="right" alt="GIF" src="https://github.com/LucasCabralDevv/LucasCabralDevv/blob/main/1.gif?raw=true" width="250" height="250" />
 
 - 🔭 I’m currently working as an Android Developer intern 💻📱
 - 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest.
