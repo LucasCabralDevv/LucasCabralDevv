@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv) 
 
 - 🔭 I’m currently working as an Android Developer intern 💻📱
-- 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest.
+- 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest. Corda blockchain development.
 - 👯 I’m looking to collaborate helping beginner programmers 
 - 🤔 I’m looking for help with android developer career 
 - 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
