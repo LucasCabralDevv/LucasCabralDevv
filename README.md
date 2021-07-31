@@ -1,4 +1,4 @@
-### Hey! I am Lucas, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hey! I am Lucas, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <a href="https://www.linkedin.com/in/lucas-cabral-android/">
   <img align="left" alt="Cabral's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -19,9 +19,9 @@
 - 📫 How to reach me: [Linkedin - @lucas-cabral-android](https://www.linkedin.com/in/lucas-cabral-android/)
 - ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
-**Languages:** 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabralDevv&theme=gotham)
-
-**📈 My GitHub Stats:**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LucasCabralDevv&show_icons=true&theme=gotham" alt="LucasCabralDevv" />
+#### 📈 My GitHub Stats & Languages
+ <div>
+  <a href="https://github.com/LucasCabralDevv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCabralDevv&show_icons=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabralDevv&theme=gotham"/>
+</div>
