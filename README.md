@@ -1,20 +1,14 @@
-## Hey! I am Lucas, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<a href="https://www.linkedin.com/in/lucas-cabral-android/">
-  <img align="left" alt="Cabral's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/m53jlw64ysng38bldm8oxeqjm">
-  <img align="left" alt="Cabral's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCcmhAGyEulxrazYSZzTN60Q">
-  <img align="left" alt="Cabral's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a> 
+## Hey! I am Lucas, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv)
+<div>
+  <a href="https://www.youtube.com/channel/UCiOTgYAfgrAeT4uCMky-OWA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas_cabral100/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-cabral-android/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://open.spotify.com/user/m53jlw64ysng38bldm8oxeqjm" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+</div> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv) 
-
+  ##  
 - 🔭 I’m currently working as an Android Developer intern 💻📱
 - 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest. Corda blockchain development.
-- 👯 I’m looking to collaborate helping beginner programmers 
-- 🤔 I’m looking for help with android developer career 
 - 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
 - 📫 How to reach me: [Linkedin - @lucas-cabral-android](https://www.linkedin.com/in/lucas-cabral-android/)
 - ⚡ Amazing fact: Mobile apps are used more than websites. 😮
