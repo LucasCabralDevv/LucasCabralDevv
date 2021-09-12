@@ -7,7 +7,7 @@
 </div> 
 
   ##  
-- 🔭 I’m currently working as an Android Developer intern 💻📱
+- 🔭 I’m currently working as an Android Developer 💻📱
 - 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest. Corda blockchain development.
 - 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
 - 📫 How to reach me: [Linkedin - @lucas-cabral-android](https://www.linkedin.com/in/lucas-cabral-android/)
